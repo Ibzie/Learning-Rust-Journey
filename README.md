@@ -1,6 +1,8 @@
 # Learning-Rust-Journey
 Documentation my journey of learning Rust to see how I progress and to see if I give up
 
+Moved this to per project crate as that would be cleaner but the initial ones remain here for fun
+
 # October
 ## 23rd
 - Took a day off work to chill a bit from burnout.
@@ -21,4 +23,3 @@ Documentation my journey of learning Rust to see how I progress and to see if I 
 - All items with ! are called "Macros", not a function i.e println!() is a macro, main() is a function
 - Cargo is Rust's package manager, like python has pip
 - cargo build --release for shipping, optimizes the build and take a bit long to compile.. Pretty nifty ngl
-- 
